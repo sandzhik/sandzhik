@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandzhik
 - 👀 I’m interested in Biology, Math, Chemistry, Physics, CS
-- 🌱 I’m currently learning Pyhon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on CodeBozu Fellowship 
 - 📫 How to reach me ...
 
